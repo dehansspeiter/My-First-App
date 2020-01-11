@@ -1,0 +1,1 @@
+THE_TEXT = "Yo yo yo"
